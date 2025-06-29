@@ -1,4 +1,3 @@
-# Grainpalette---A-Deep-Learning-Odyssey-In-Rice-Type-Classification-Through-Transfer-Learning
 # Grainpalette-a-deep-learning-odyssey-in-rice-type-classification-through-transfer-learning
 grainpalette - a deep learning odyssey in rice type classification through transfer learning
 # 🌾 GrainPalette – A Deep Learning Odyssey in Rice Type Classification Through Transfer Learning
