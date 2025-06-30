@@ -62,7 +62,7 @@ To develop an intelligent, user-friendly system that can accurately identify ric
 ### 🔧 Installation Steps
 
 # 1. Clone the repository
-git clone https://github.com/narendramukhesh-007/grainpalette---a-deep-learning-odyssey-in-rice-type-classification-through-transfer-learning
+git clone https://github.com/thewasim11/Grainpalette---A-Deep-Learning-Odyssey-In-Rice-Type-Classification-Through-Transfer-Learning/tree/main
 cd grainpalette...
 
 # 2. Create virtual environment
