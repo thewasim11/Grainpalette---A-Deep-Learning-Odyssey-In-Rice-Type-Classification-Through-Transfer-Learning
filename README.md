@@ -15,8 +15,8 @@ GrainPalette is a deep learning-based web application that classifies different 
 ## 👨‍💻 Team Members
 
 - **Aspatri Wasim** – UI/UX Designer  
-- **Borra Venkata Jayalaxmi Devi** – Full Stack Developer  
-- **Allada Manjunadha** – Model Training & Integration  
+- **Allada Manjunadha** – Full Stack Developer  
+- **Borra Venkata Jayalaxmi Devi** – Model Training & Integration  
 - **Atmakuri Hymavathi** – Deployment and Testing  
 
 ---
