@@ -8,7 +8,7 @@ GrainPalette is a deep learning-based web application that classifies different 
 
 ## 📽️ Demo Video
 
-🎥 [Click to Watch Demo Video on Google Drive](https://drive.google.com/file/d/1bTNDHuM2fZFiwAwXxgC2l0D80T8IBsKu/view?usp=drive_link)
+🎥 [Click to Watch Demo Video on Google Drive](https://drive.google.com/file/d/1mZOfH27VxzCbjpNQnc9gh0Fkh-Vy24W-/view?usp=drive_link)
 
 ---
 
@@ -129,12 +129,3 @@ Build as PWA (Progressive Web App)
 💻 Project Documentation (.docx)
 
 🤖 Dataset: Used 5 rice types — Arborio, Basmati, Jasmine, Ipsala, Karacadag
-
-
----
-
-✅ You can now:
-- Copy and paste this into your `README.md` on GitHub.
-- Or I can generate the updated version and upload it for you if you give access.
-
-Would you like this `README.md` saved as a file for download too?
